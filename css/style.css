@@ -440,6 +440,7 @@ nav ul li a:hover {
 
 .hobby .container .card:hover {
   color: #a9d6e5;
+  text-shadow: 0px 4px 4px #151616fd;
   border-radius: 200px;
   margin-left: 200px;
   margin-right: 200px;
